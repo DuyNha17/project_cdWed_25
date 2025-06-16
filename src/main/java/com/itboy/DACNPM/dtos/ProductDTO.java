@@ -9,7 +9,7 @@ import lombok.*;
 @Setter
 @AllArgsConstructor
 @NoArgsConstructor
-public class ProductDTO {
+public class   ProductDTO {
     private long productId;
 
     @NotBlank(message = "Title is required")

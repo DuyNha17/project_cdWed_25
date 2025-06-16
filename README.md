@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # project-web-2024
 ## Tên đề tài:  Shop phần mềm bản quyền
 
@@ -14,3 +15,6 @@ Link Git Frontend-React: [project-web-2024-react](https://github.com/thoaihuu252
 
 
 
+=======
+# project_cdWed_25
+>>>>>>> ed5576a7cf89bb0ffb86d2a49841f15323a5b252

@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-# project-web-2024
+# project-web-2025
 ## Tên đề tài:  Shop phần mềm bản quyền
 
 Đào Duy Nhã - 20130342
